@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\nxl\\app\\weex\\weexplugin\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\config.xml",
+        "source": "F:\\nxl\\app\\weex\\weexplugin\\platforms\\android\\app\\build\\intermediates\\exploded-aar\\android\\weexplugin\\unspecified\\res\\xml\\config.xml"
+    },
+    {
+        "merged": "F:\\nxl\\app\\weex\\weexplugin\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\app_config.xml",
+        "source": "F:\\nxl\\app\\weex\\weexplugin\\platforms\\android\\app\\src\\main\\res\\xml\\app_config.xml"
+    }
+]
