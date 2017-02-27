@@ -45,7 +45,11 @@
       <file leaf-file-name="ShareUtil.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/weexplugin/src/main/java/com/sxnxl/share/wx/ShareUtil.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="187">
+=======
+            <state relative-caret-position="570">
+>>>>>>> 0873d3bcfa0a699226d0308a0aa37a419e6d8f3c
               <caret line="30" column="68" selection-start-line="30" selection-start-column="60" selection-end-line="30" selection-end-column="68" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -57,7 +61,11 @@
       <file leaf-file-name="ShareData.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/weexplugin/src/main/java/com/sxnxl/share/wx/ShareData.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="-502">
+=======
+            <state relative-caret-position="266">
+>>>>>>> 0873d3bcfa0a699226d0308a0aa37a419e6d8f3c
               <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
               <folding />
             </state>
@@ -67,7 +75,11 @@
       <file leaf-file-name="ShareBuilder.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/weexplugin/src/main/java/com/sxnxl/share/wx/ShareBuilder.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="-369">
+=======
+            <state relative-caret-position="19">
+>>>>>>> 0873d3bcfa0a699226d0308a0aa37a419e6d8f3c
               <caret line="89" column="47" selection-start-line="89" selection-start-column="47" selection-end-line="89" selection-end-column="47" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -76,10 +88,27 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="WXPageActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/alibaba/weex/WXPageActivity.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-1064">
+=======
+      <file leaf-file-name="gradlew.bat" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gradlew.bat">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WXPageActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/alibaba/weex/WXPageActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="684">
+>>>>>>> 0873d3bcfa0a699226d0308a0aa37a419e6d8f3c
               <caret line="84" column="44" selection-start-line="84" selection-start-column="44" selection-end-line="84" selection-end-column="44" />
               <folding />
             </state>
@@ -89,7 +118,11 @@
       <file leaf-file-name="WXShare.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/weexplugin/src/main/java/com/sxnxl/share/wx/WXShare.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="695">
+=======
+            <state relative-caret-position="1140">
+>>>>>>> 0873d3bcfa0a699226d0308a0aa37a419e6d8f3c
               <caret line="83" column="34" selection-start-line="83" selection-start-column="34" selection-end-line="83" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -104,7 +137,11 @@
       <file leaf-file-name="WXAPIFactory.class" pinned="false" current-in-tab="false">
         <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tencent.mm.opensdk/wechat-sdk-android-with-mta/1.0.2/d52a3b82b9efa2b247d9496c5b5bbc8ca1f93eab/wechat-sdk-android-with-mta-1.0.2.jar!/com/tencent/mm/opensdk/openapi/WXAPIFactory.class">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="178">
+=======
+            <state relative-caret-position="285">
+>>>>>>> 0873d3bcfa0a699226d0308a0aa37a419e6d8f3c
               <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
               <folding />
             </state>
@@ -114,7 +151,11 @@
       <file leaf-file-name="WXApplication.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/alibaba/weex/WXApplication.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="149">
+=======
+            <state relative-caret-position="361">
+>>>>>>> 0873d3bcfa0a699226d0308a0aa37a419e6d8f3c
               <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -133,6 +174,7 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="WXEntryActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/net/sourceforge/simcpux/wxapi/WXEntryActivity.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -153,6 +195,8 @@
           </provider>
         </entry>
       </file>
+=======
+>>>>>>> 0873d3bcfa0a699226d0308a0aa37a419e6d8f3c
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -3042,7 +3086,11 @@
     </option>
     <option name="modificationStamps">
       <map>
+<<<<<<< HEAD
         <entry key="F:\nxl\app\weex\weexplugin\platforms\android" value="7438654486756" />
+=======
+        <entry key="F:\nxl\app\weex\weexplugin\platforms\android" value="7439651026103" />
+>>>>>>> 0873d3bcfa0a699226d0308a0aa37a419e6d8f3c
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -3560,11 +3608,18 @@
         <option value="$PROJECT_DIR$/weexplugin/src/main/java/com/sxnxl/share/wx/ShareData.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/net/sourceforge/simcpux/wxapi/WXEntryActivity.java" />
         <option value="$PROJECT_DIR$/weexplugin/src/main/java/com/sxnxl/share/wx/ShareResult.java" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/weexplugin/src/main/java/com/sxnxl/share/wx/ShareBuilder.java" />
+=======
+>>>>>>> 0873d3bcfa0a699226d0308a0aa37a419e6d8f3c
         <option value="$PROJECT_DIR$/weexplugin/src/main/java/com/sxnxl/share/DefaultShareFactory.java" />
         <option value="$PROJECT_DIR$/weexplugin/src/main/java/com/sxnxl/share/ShareModule.java" />
         <option value="$PROJECT_DIR$/weexplugin/src/main/java/com/sxnxl/share/wx/ShareUtil.java" />
         <option value="$PROJECT_DIR$/weexplugin/src/main/java/com/sxnxl/share/wx/WXShare.java" />
+<<<<<<< HEAD
+=======
+        <option value="$PROJECT_DIR$/weexplugin/src/main/java/com/sxnxl/share/wx/ShareBuilder.java" />
+>>>>>>> 0873d3bcfa0a699226d0308a0aa37a419e6d8f3c
       </list>
     </option>
   </component>
@@ -3599,9 +3654,13 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="AndroidView">
         <subPane />
       </pane>
+=======
+      <pane id="Scope" />
+>>>>>>> 0873d3bcfa0a699226d0308a0aa37a419e6d8f3c
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -3622,9 +3681,17 @@
           </PATH>
         </subPane>
       </pane>
+<<<<<<< HEAD
       <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
+=======
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="AndroidView">
+        <subPane />
+      </pane>
+>>>>>>> 0873d3bcfa0a699226d0308a0aa37a419e6d8f3c
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -3763,6 +3830,18 @@
       </ExternalSystemSettings>
       <method />
     </configuration>
+<<<<<<< HEAD
+=======
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method />
+    </configuration>
+>>>>>>> 0873d3bcfa0a699226d0308a0aa37a419e6d8f3c
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -3960,6 +4039,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="-8" y="-8" width="1604" height="876" extended-state="0" />
     <editor active="false" />
     <layout>
@@ -3987,6 +4067,34 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+=======
+    <frame x="-8" y="-8" width="1604" height="876" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914925" sideWeight="0.4974093" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914925" sideWeight="0.48445597" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.18549512" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.63319385" sideWeight="0.5181347" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43235704" sideWeight="0.71049225" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39191073" sideWeight="0.89054406" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.4927235" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.81450486" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33472803" sideWeight="0.4818653" order="3" side_tool="false" content_ui="tabs" />
+>>>>>>> 0873d3bcfa0a699226d0308a0aa37a419e6d8f3c
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -3995,6 +4103,10 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
+=======
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+>>>>>>> 0873d3bcfa0a699226d0308a0aa37a419e6d8f3c
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -4012,6 +4124,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
+<<<<<<< HEAD
           <url>file://$PROJECT_DIR$/app/src/main/java/net/sourceforge/simcpux/wxapi/WXEntryActivity.java</url>
           <line>40</line>
           <properties />
@@ -4054,6 +4167,8 @@
           <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
+=======
+>>>>>>> 0873d3bcfa0a699226d0308a0aa37a419e6d8f3c
           <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tencent.mm.opensdk/wechat-sdk-android-with-mta/1.0.2/d52a3b82b9efa2b247d9496c5b5bbc8ca1f93eab/wechat-sdk-android-with-mta-1.0.2.jar!/com/tencent/mm/opensdk/modelbase/BaseResp.class</url>
           <line>32</line>
           <properties />
@@ -4065,6 +4180,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tencent.mm.opensdk/wechat-sdk-android-with-mta/1.0.2/d52a3b82b9efa2b247d9496c5b5bbc8ca1f93eab/wechat-sdk-android-with-mta-1.0.2.jar!/com/tencent/mm/opensdk/modelmsg/WXTextObject.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="62">
@@ -4080,6 +4196,8 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> 0873d3bcfa0a699226d0308a0aa37a419e6d8f3c
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.taobao.android/weex_sdk/0.10.0/883b5d24d11543e9af90849daa11da37287ccb05/weex_sdk-0.10.0-sources.jar!/com/taobao/weex/bridge/ModuleFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -4098,10 +4216,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
           <caret line="21" column="73" selection-start-line="21" selection-start-column="73" selection-end-line="21" selection-end-column="73" />
+<<<<<<< HEAD
           <folding>
             <element signature="e#304#305#0" expanded="false" />
             <element signature="e#337#338#0" expanded="false" />
           </folding>
+=======
+>>>>>>> 0873d3bcfa0a699226d0308a0aa37a419e6d8f3c
         </state>
       </provider>
     </entry>
@@ -4116,7 +4237,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-629">
           <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+<<<<<<< HEAD
           <folding />
+=======
+>>>>>>> 0873d3bcfa0a699226d0308a0aa37a419e6d8f3c
         </state>
       </provider>
     </entry>
@@ -4147,7 +4271,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="169">
           <caret line="37" column="78" selection-start-line="37" selection-start-column="78" selection-end-line="37" selection-end-column="78" />
+<<<<<<< HEAD
           <folding />
+=======
+>>>>>>> 0873d3bcfa0a699226d0308a0aa37a419e6d8f3c
         </state>
       </provider>
     </entry>
@@ -4155,7 +4282,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+<<<<<<< HEAD
           <folding />
+=======
+>>>>>>> 0873d3bcfa0a699226d0308a0aa37a419e6d8f3c
         </state>
       </provider>
     </entry>
@@ -4180,7 +4310,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
           <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+<<<<<<< HEAD
           <folding />
+=======
+>>>>>>> 0873d3bcfa0a699226d0308a0aa37a419e6d8f3c
         </state>
       </provider>
     </entry>
@@ -4203,7 +4336,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="279">
           <caret line="484" column="53" selection-start-line="484" selection-start-column="45" selection-end-line="484" selection-end-column="53" />
+<<<<<<< HEAD
           <folding />
+=======
+>>>>>>> 0873d3bcfa0a699226d0308a0aa37a419e6d8f3c
         </state>
       </provider>
     </entry>
@@ -4211,7 +4347,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+<<<<<<< HEAD
           <folding />
+=======
+>>>>>>> 0873d3bcfa0a699226d0308a0aa37a419e6d8f3c
         </state>
       </provider>
     </entry>
@@ -4219,7 +4358,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="61" column="49" selection-start-line="61" selection-start-column="36" selection-end-line="61" selection-end-column="49" />
+<<<<<<< HEAD
           <folding />
+=======
+>>>>>>> 0873d3bcfa0a699226d0308a0aa37a419e6d8f3c
         </state>
       </provider>
     </entry>
@@ -4235,7 +4377,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
           <caret line="45" column="41" selection-start-line="45" selection-start-column="41" selection-end-line="45" selection-end-column="41" />
+<<<<<<< HEAD
           <folding />
+=======
+>>>>>>> 0873d3bcfa0a699226d0308a0aa37a419e6d8f3c
         </state>
       </provider>
     </entry>
@@ -4251,7 +4396,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+<<<<<<< HEAD
           <folding />
+=======
+>>>>>>> 0873d3bcfa0a699226d0308a0aa37a419e6d8f3c
         </state>
       </provider>
     </entry>
@@ -4259,7 +4407,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+<<<<<<< HEAD
           <folding />
+=======
+>>>>>>> 0873d3bcfa0a699226d0308a0aa37a419e6d8f3c
         </state>
       </provider>
     </entry>
@@ -4267,7 +4418,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="22" column="61" selection-start-line="22" selection-start-column="61" selection-end-line="22" selection-end-column="61" />
+<<<<<<< HEAD
           <folding />
+=======
+>>>>>>> 0873d3bcfa0a699226d0308a0aa37a419e6d8f3c
         </state>
       </provider>
     </entry>
@@ -4275,11 +4429,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="29" column="28" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="28" />
+<<<<<<< HEAD
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1179#1180#0" expanded="true" />
             <element signature="e#1234#1235#0" expanded="true" />
           </folding>
+=======
+          <folding />
+>>>>>>> 0873d3bcfa0a699226d0308a0aa37a419e6d8f3c
         </state>
       </provider>
     </entry>
@@ -4287,7 +4445,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+<<<<<<< HEAD
           <folding />
+=======
+>>>>>>> 0873d3bcfa0a699226d0308a0aa37a419e6d8f3c
         </state>
       </provider>
     </entry>
@@ -4295,6 +4456,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="274">
           <caret line="32" column="26" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
+<<<<<<< HEAD
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#812#813#0" expanded="true" />
@@ -4309,10 +4471,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="334">
           <caret line="26" column="5" selection-start-line="15" selection-start-column="4" selection-end-line="26" selection-end-column="5" />
+=======
+>>>>>>> 0873d3bcfa0a699226d0308a0aa37a419e6d8f3c
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/weexplugin/src/main/java/com/sxnxl/share/wx/ShareResult.java" />
+>>>>>>> 0873d3bcfa0a699226d0308a0aa37a419e6d8f3c
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tencent.mm.opensdk/wechat-sdk-android-with-mta/1.0.2/d52a3b82b9efa2b247d9496c5b5bbc8ca1f93eab/wechat-sdk-android-with-mta-1.0.2.jar!/com/tencent/mm/opensdk/modelbase/BaseResp.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -4325,7 +4493,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1504">
           <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+<<<<<<< HEAD
           <folding />
+=======
+>>>>>>> 0873d3bcfa0a699226d0308a0aa37a419e6d8f3c
         </state>
       </provider>
     </entry>
@@ -4333,7 +4504,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
           <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+<<<<<<< HEAD
           <folding />
+=======
+>>>>>>> 0873d3bcfa0a699226d0308a0aa37a419e6d8f3c
         </state>
       </provider>
     </entry>
@@ -4416,7 +4590,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/net/sourceforge/simcpux/wxapi/WXEntryActivity.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="149">
+=======
+        <state relative-caret-position="285">
+>>>>>>> 0873d3bcfa0a699226d0308a0aa37a419e6d8f3c
           <caret line="27" column="32" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
           <folding />
         </state>
@@ -4432,7 +4610,11 @@
     </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tencent.mm.opensdk/wechat-sdk-android-with-mta/1.0.2/d52a3b82b9efa2b247d9496c5b5bbc8ca1f93eab/wechat-sdk-android-with-mta-1.0.2.jar!/com/tencent/mm/opensdk/openapi/WXAPIFactory.class">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="178">
+=======
+        <state relative-caret-position="285">
+>>>>>>> 0873d3bcfa0a699226d0308a0aa37a419e6d8f3c
           <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
           <folding />
         </state>
@@ -4440,7 +4622,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/alibaba/weex/WXApplication.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="149">
+=======
+        <state relative-caret-position="361">
+>>>>>>> 0873d3bcfa0a699226d0308a0aa37a419e6d8f3c
           <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -4450,7 +4636,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/alibaba/weex/WXPageActivity.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="-1064">
+=======
+        <state relative-caret-position="684">
+>>>>>>> 0873d3bcfa0a699226d0308a0aa37a419e6d8f3c
           <caret line="84" column="44" selection-start-line="84" selection-start-column="44" selection-end-line="84" selection-end-column="44" />
           <folding />
         </state>
@@ -4458,7 +4648,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/weexplugin/src/main/java/com/sxnxl/share/wx/WXShare.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="695">
+=======
+        <state relative-caret-position="1140">
+>>>>>>> 0873d3bcfa0a699226d0308a0aa37a419e6d8f3c
           <caret line="83" column="34" selection-start-line="83" selection-start-column="34" selection-end-line="83" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -4471,7 +4665,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/weexplugin/src/main/java/com/sxnxl/share/wx/ShareUtil.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="187">
+=======
+        <state relative-caret-position="570">
+>>>>>>> 0873d3bcfa0a699226d0308a0aa37a419e6d8f3c
           <caret line="30" column="68" selection-start-line="30" selection-start-column="60" selection-end-line="30" selection-end-column="68" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -4481,15 +4679,41 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/weexplugin/src/main/java/com/sxnxl/share/wx/ShareData.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="-502">
+=======
+        <state relative-caret-position="266">
+>>>>>>> 0873d3bcfa0a699226d0308a0aa37a419e6d8f3c
           <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/weexplugin/src/main/java/com/sxnxl/share/wx/ShareBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-369">
+=======
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradlew.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/weexplugin/src/main/java/com/sxnxl/share/wx/ShareBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-369">
+        <state relative-caret-position="19">
+>>>>>>> 0873d3bcfa0a699226d0308a0aa37a419e6d8f3c
           <caret line="89" column="47" selection-start-line="89" selection-start-column="47" selection-end-line="89" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
